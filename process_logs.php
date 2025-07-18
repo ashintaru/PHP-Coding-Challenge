@@ -1,7 +1,7 @@
 <?php
 // process_logs.php
 
-$inFile  = 'sample‑logs.txt';
+$inFile  = 'sample-logs.txt';
 $outFile = 'output.txt';
 
 if (!is_readable($inFile)) {
